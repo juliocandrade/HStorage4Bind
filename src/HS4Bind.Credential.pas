@@ -13,7 +13,7 @@ type
       FParent : iHS4Bind;
       FBaseURL : string;
       FToken : string;
-      FEndPoint : string;
+
     public
       constructor Create(Parent : iHS4Bind);
       destructor Destroy; override;
